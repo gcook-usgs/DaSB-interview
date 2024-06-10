@@ -1,2 +1,5 @@
-# DS-interview
-Scratch homework repo for CUAHSI DS interview
+# DaSB-interview
+Code review exercise for candidates applying to jobs in the Data Science Branch.
+
+# Instructions
+
