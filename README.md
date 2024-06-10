@@ -1,5 +1,11 @@
 # DaSB-interview
 Code review exercise for candidates applying to jobs in the Data Science Branch.
 
-# Instructions
+## The scenario: 
+_A junior colleague from another team has reached out for advice on building some data processing scripts that they plan to share with other members of a large project for wider use. You’ve met with the colleague once and provided some tips on getting started. This person has written code off and on over the years, but is entirely self-taught, and eager to improve their skills. The colleague has submitted a pull request with their initial solution for you to review. They don't need you to rewrite their code but they do need feedback on any bad coding or data practices and how they can make their code more reusable and reproducible. The context for the problem they are trying to solve is in the “conversation” text found in the pull requests._
+
+ ## Instructions to complete the exercise:
+I ask that you do not engage directly with the pull request with comments or commits but instead provide your feedback via an email to me that would take a similar form to a pull request conversation. Put yourself in the scenario where you are responding to me as if I were the junior colleague that created the pull request for you to review. There is no right answer here. We are interested in how you think, how you test and evaluate the work of others, and how you communicate. You can use the internet and any other resources but we ask that you work alone. You can choose from a pull request in R or one in Python. Both pull requests are the same scenario, so you only need to respond to the pull request with the programming language you're most comfortable with. The codes should be close to running as-is, but not quite. 
+ 
+Please reply with a “pull request email” at least one day before your scheduled interview time. We may ask some questions related to your thought process going through this exercise during the interview, so it is important to complete it prior to the meeting. We assume that most candidates have many obligations during any 48-hour window, and this activity should take less than 1.5 hours, but please let me know if a coding activity in this particular window is impossible for you. 
 
